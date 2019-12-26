@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+_nuxt
+development_nuxt
+dev_nuxt
+production_nuxt
+test_nuxt
+prod_nuxt
+# Nuxt generate
+/dist
+
+.idea
+
+#logs
+**/logs/
+*.log
+
