@@ -1,5 +1,3 @@
-# bidogo
-
 > My finest Nuxt.js project
 
 ## Build Setup
